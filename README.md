@@ -26,7 +26,7 @@ heart attack prediction. Compared to traditional ML algorithms,
 artificial neural network and its variants are of great interest
 since they are more capable of learning complex patterns and
 relationships within the data. In this paper, we propose an
-approach for heart attack prediction based on a Graph Convolutional Neural Network(GCN), which can predict the occurrence
+approach for heart attack prediction based on a Graph Convolutional Neural Network(GCN), which can predict the occurrence
 of a heart attack based on medical data in graph format. The
 objective of this paper is to test the feasibility of employing GCN
 in heart attack prediction problems and evaluate the performance
