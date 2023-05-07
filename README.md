@@ -1,5 +1,5 @@
 # DSCI_441_xuf220
-This project has four files so far. This is a brief description about the four files.
+This is a brief description about the project.
 If the project has new commits after that, then the description in readme file will also be updated accodingly.
 
 Heart.csv file comes from: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?datasetId=1226038
@@ -11,11 +11,12 @@ Usually users don't need this file since it's incorprated in the Main_Notebook.i
 Main_Notebook.ipynb is the main python file of ipython notebook style, execute blocks in sequnce should be able to make this code work.
 Each block has comment to help users understand how to make it work.
 Simply execute block one by one will be the right way to use it.
+
 Q: How to know if it's working fine?  
 A: At the end of the project you should see pictures of the classifcied nodes and the value of cross entropy loss.
 
-Demo_1 is an unfinished demeo file. To run the demo, please use Demo_complete.ipynb. All the results and outputs of each block are shown in the notebook.
-Simply execute each block one after one will be working fine.
+To run the demo, please use Demo_complete.ipynb. All the results and outputs of each block are shown in the notebook.
+Simply execute each block one after one will be working fine. Demo_1 is an unfinished demeo file. 
 
 The Abstract of the project is here:
 
