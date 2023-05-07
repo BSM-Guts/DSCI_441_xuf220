@@ -15,6 +15,7 @@ Q: How to know if it's working fine?
 A: At the end of the project you should see pictures of the classifcied nodes and the value of cross entropy loss.
 
 Demo_1 is an unfinished demeo file. To run the demo, please use Demo_complete.ipynb. All the results and outputs of each block are shown in the notebook.
+Simply execute each block one after one will be working fine.
 
 The Abstract of the project is here:
 
